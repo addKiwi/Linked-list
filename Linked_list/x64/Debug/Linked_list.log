@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\plaer\source\repos\linked_list\linked_list\source.cpp(222): warning C4551: в вызове функции отсутствует список аргументов
+  Linked_list.vcxproj -> C:\Users\plaer\source\repos\linked_list\x64\Debug\Linked_list.exe
+  Linked_list.vcxproj -> C:\Users\plaer\source\repos\linked_list\x64\Debug\Linked_list.pdb (Partial PDB)
